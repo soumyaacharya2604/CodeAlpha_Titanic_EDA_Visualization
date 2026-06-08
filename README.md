@@ -3,11 +3,6 @@
 ## Author
 B Soumya
 
-## Program
-M.Sc. Data Science and Analytics
-
-## Institution
-Jain (Deemed-to-be University), Bangalore
 
 ## Internship
 CodeAlpha Data Analytics Internship
