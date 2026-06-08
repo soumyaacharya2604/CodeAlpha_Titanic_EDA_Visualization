@@ -1,0 +1,15 @@
+Titanic Dataset Analysis using EDA and Data Visualization
+
+Author: B Soumya
+Program: M.Sc. Data Science and Analytics
+Institution: Jain (Deemed-to-be University), Bangalore
+
+CodeAlpha Data Analytics Internship
+
+This project analyzes the Titanic dataset using Exploratory Data Analysis (EDA) and Data Visualization techniques.
+
+Key Findings:
+- Female passengers had higher survival rates.
+- First-class passengers had better survival chances.
+- Passenger class significantly influenced survival.
+- Higher fares were associated with improved survival outcomes.
